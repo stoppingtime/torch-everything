@@ -1,0 +1,186 @@
+[submodule "extension-script"]
+	path = extension-script
+	url = https://github.com/pytorch/extension-script
+[submodule "extension-ffi"]
+	path = extension-ffi
+	url = https://github.com/pytorch/extension-ffi
+[submodule "csprng"]
+	path = csprng
+	url = https://github.com/pytorch/csprng
+[submodule "extension-cpp"]
+	path = extension-cpp
+	url = https://github.com/pytorch/extension-cpp
+[submodule "pytorch-integration-testing"]
+	path = pytorch-integration-testing
+	url = https://github.com/pytorch/pytorch-integration-testing
+[submodule "contrib"]
+	path = contrib
+	url = https://github.com/pytorch/contrib
+[submodule "java-demo"]
+	path = java-demo
+	url = https://github.com/pytorch/java-demo
+[submodule "labeler-github-action"]
+	path = labeler-github-action
+	url = https://github.com/pytorch/labeler-github-action
+[submodule "pytorch-ci-dockerfiles"]
+	path = pytorch-ci-dockerfiles
+	url = https://github.com/pytorch/pytorch-ci-dockerfiles
+[submodule "rfcs"]
+	path = rfcs
+	url = https://github.com/pytorch/rfcs
+[submodule "tvm"]
+	path = tvm
+	url = https://github.com/pytorch/tvm
+[submodule "FBGEMM"]
+	path = FBGEMM
+	url = https://github.com/pytorch/FBGEMM
+[submodule "torchrec"]
+	path = torchrec
+	url = https://github.com/pytorch/torchrec
+[submodule "elastic"]
+	path = elastic
+	url = https://github.com/pytorch/elastic
+[submodule "probot"]
+	path = probot
+	url = https://github.com/pytorch/probot
+[submodule "tensorpipe"]
+	path = tensorpipe
+	url = https://github.com/pytorch/tensorpipe
+[submodule "accimage"]
+	path = accimage
+	url = https://github.com/pytorch/accimage
+[submodule "serve"]
+	path = serve
+	url = https://github.com/pytorch/serve
+[submodule "hydra-torch"]
+	path = hydra-torch
+	url = https://github.com/pytorch/hydra-torch
+[submodule "hub"]
+	path = hub
+	url = https://github.com/pytorch/hub
+[submodule "cpuinfo"]
+	path = cpuinfo
+	url = https://github.com/pytorch/cpuinfo
+[submodule "nestedtensor"]
+	path = nestedtensor
+	url = https://github.com/pytorch/nestedtensor
+[submodule "android-demo-app"]
+	path = android-demo-app
+	url = https://github.com/pytorch/android-demo-app
+[submodule "QNNPACK"]
+	path = QNNPACK
+	url = https://github.com/pytorch/QNNPACK
+[submodule "tnt"]
+	path = tnt
+	url = https://github.com/pytorch/tnt
+[submodule "opacus"]
+	path = opacus
+	url = https://github.com/pytorch/opacus
+[submodule "data"]
+	path = data
+	url = https://github.com/pytorch/data
+[submodule "caffe2.github.io"]
+	path = caffe2.github.io
+	url = https://github.com/pytorch/caffe2.github.io
+[submodule "fairseq"]
+	path = fairseq
+	url = https://github.com/pytorch/fairseq
+[submodule "vision"]
+	path = vision
+	url = https://github.com/pytorch/vision
+[submodule "pytorch_sphinx_theme"]
+	path = pytorch_sphinx_theme
+	url = https://github.com/pytorch/pytorch_sphinx_theme
+[submodule "ort"]
+	path = ort
+	url = https://github.com/pytorch/ort
+[submodule "maskedtensor"]
+	path = maskedtensor
+	url = https://github.com/pytorch/maskedtensor
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/pytorch/benchmark
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/pytorch/pytorch
+[submodule "kineto"]
+	path = kineto
+	url = https://github.com/pytorch/kineto
+[submodule "functorch"]
+	path = functorch
+	url = https://github.com/pytorch/functorch
+[submodule "xla"]
+	path = xla
+	url = https://github.com/pytorch/xla
+[submodule "text"]
+	path = text
+	url = https://github.com/pytorch/text
+[submodule "captum"]
+	path = captum
+	url = https://github.com/pytorch/captum
+[submodule "audio"]
+	path = audio
+	url = https://github.com/pytorch/audio
+[submodule "botorch"]
+	path = botorch
+	url = https://github.com/pytorch/botorch
+[submodule "builder"]
+	path = builder
+	url = https://github.com/pytorch/builder
+[submodule "cppdocs"]
+	path = cppdocs
+	url = https://github.com/pytorch/cppdocs
+[submodule "examples"]
+	path = examples
+	url = https://github.com/pytorch/examples
+[submodule "torchx"]
+	path = torchx
+	url = https://github.com/pytorch/torchx
+[submodule "pytorch.github.io"]
+	path = pytorch.github.io
+	url = https://github.com/pytorch/pytorch.github.io
+[submodule "live"]
+	path = live
+	url = https://github.com/pytorch/live
+[submodule "test-infra"]
+	path = test-infra
+	url = https://github.com/pytorch/test-infra
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/pytorch/tutorials
+[submodule "ignite"]
+	path = ignite
+	url = https://github.com/pytorch/ignite
+[submodule "glow"]
+	path = glow
+	url = https://github.com/pytorch/glow
+[submodule "ci-hud"]
+	path = ci-hud
+	url = https://github.com/pytorch/ci-hud
+[submodule "ios-demo-app"]
+	path = ios-demo-app
+	url = https://github.com/pytorch/ios-demo-app
+[submodule "add-annotations-github-action"]
+	path = add-annotations-github-action
+	url = https://github.com/pytorch/add-annotations-github-action
+[submodule "ossci-job-dsl"]
+	path = ossci-job-dsl
+	url = https://github.com/pytorch/ossci-job-dsl
+[submodule "translate"]
+	path = translate
+	url = https://github.com/pytorch/translate
+[submodule "dr-ci"]
+	path = dr-ci
+	url = https://github.com/pytorch/dr-ci
+[submodule "workshops"]
+	path = workshops
+	url = https://github.com/pytorch/workshops
+[submodule "sccache"]
+	path = sccache
+	url = https://github.com/pytorch/sccache
+[submodule "ELF"]
+	path = ELF
+	url = https://github.com/pytorch/ELF
+[submodule "third-party/PyTorch.docs"]
+	path = third-party/PyTorch.docs
+	url = https://github.com/unknownue/PyTorch.docs
